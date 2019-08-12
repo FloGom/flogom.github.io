@@ -1,2 +1,4 @@
 # Fun and Useless Projects - F.a.U.P
 ## An attempt to help humanity reducing boredom...
+
+[link](readme.md)
