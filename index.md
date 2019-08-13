@@ -1,5 +1,14 @@
 ---
 ---
+
+<nav>
+  {% for item in site.data.navigation %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+      {{ item.name }}
+    </a>
+  {% endfor %}
+</nav>
+
 # Fun and Useless Projects - F.a.U.P
 ## An attempt to help humanity reducing boredom...
 
@@ -9,7 +18,7 @@ humanity from boredom!
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{post.date}} - {{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
