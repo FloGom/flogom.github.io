@@ -38,4 +38,8 @@ Flogom
 Fun Logically Organised Games and Operating Modules.
 Fun Logical Organised Graphics Operational Methods.
 
+Plan to use this theme    
+https://github.com/poole/hyde
+or this one
+http://longqian.me/2017/02/09/github-jekyll-tag/
 ### Contact
