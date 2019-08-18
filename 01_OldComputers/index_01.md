@@ -2,6 +2,7 @@
 title:  "First post!"
 categories: [old computers]
 tags: [old computers]
+layout: post
 ---
 
 # F.a.U.P / 01. Old Computers

@@ -1,3 +1,10 @@
+---
+title:  "Utiliser une vieille machine pour l'impression 3D"
+categories: [old computers]
+tags: [old computers]
+layout: post
+---
+
 # Utiliser une vieille machine pour l'impression 3D
 ### Est-ce bien sage?
 

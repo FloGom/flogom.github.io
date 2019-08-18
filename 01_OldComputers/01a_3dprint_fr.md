@@ -1,7 +1,12 @@
-# Utiliser une vieille machine pour l'impression 3D
+---
+title:  "Utiliser une vieille machine pour l'impression 3D"
+categories: [old computers]
+tags: [old computers]
+layout: post
+---
+
+
 ### Est-ce bien sage?
-
-
 
 ## 1 Objectifs et cahier des charges
 
