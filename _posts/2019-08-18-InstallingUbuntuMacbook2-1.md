@@ -103,7 +103,7 @@ To run an OpenGL program (in this case glxgears -info) with gallium llvmpipe sof
 $ LIBGL_ALWAYS_SOFTWARE=1 glxgears -info
 ```
 
-The following softwares are run succesfully with this option:
+The following softwares run successfully with this option:    
 | Softwares            |
 |----------------------|
 | Blender 2.79         |

@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            F.a.U.P.
-tagline:          'Fun and Useless Projects'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+title:            F.a.r!?U.P.
+tagline:          'Fun and really!? Useless Projects'
+description:      'Mainly open-source adventures to re-prupose old computer stuff, with some tinkering including 3D printing, software development.'
 url:              https://fongandrew.github.io
 baseurl:          '/flogom.github.io'
                   # the optional subpath of your site, e.g. "/blog"
@@ -15,7 +15,7 @@ baseurl:          '/flogom.github.io'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Florentin SALOMEZ'
+  name:           'flogom'
   url:            
 
 paginate:         5
@@ -26,6 +26,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-seo-tag
 
 # Sidebar link settings
 sidebar_home_link:  true

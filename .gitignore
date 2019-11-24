@@ -47,3 +47,6 @@ Gemfile.lock
 _config.dev.yml
 .vscode
 *.gem
+
+# oldwebsite try, kept for inspiration
+oldWebsite/
