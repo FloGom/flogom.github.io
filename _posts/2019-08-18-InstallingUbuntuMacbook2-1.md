@@ -104,11 +104,11 @@ $ LIBGL_ALWAYS_SOFTWARE=1 glxgears -info
 ```
 
 The following softwares run successfully with this option:    
-| Softwares            |
-|----------------------|
-| Blender 2.79         |
-| FreeCAD 0.18.3       |
-| Ultimaker Cura 4.2.1 |
+| Softwares            |    
+|----------------------|    
+| Blender 2.79         |    
+| FreeCAD 0.18.3       |    
+| Ultimaker Cura 4.2.1 |    
 
 
 ### 3.b. Official Mactel support page
@@ -118,4 +118,4 @@ The following softwares run successfully with this option:
 
 ### 3.c. Icon theme
 The new Papirus theme used in Lubuntu is really nice.
-To install it go to https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+To install it, go to [https://github.com/PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
