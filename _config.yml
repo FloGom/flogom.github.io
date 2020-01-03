@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            F.a.r!?U.P.
 tagline:          'Fun and really!? Useless Projects'
 description:      'Mainly open-source adventures to re-prupose old computer stuff, with some tinkering including 3D printing, software development.'
-url:              https://fongandrew.github.io
+url:              https://flogom.github.io
 baseurl:          '/flogom.github.io'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.

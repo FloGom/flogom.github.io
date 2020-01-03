@@ -115,3 +115,7 @@ The following softwares run successfully with this option:
 
 [https://wiki.ubuntu.com/IntelMacSupport](https://wiki.ubuntu.com/IntelMacSupport)
 [https://wiki.debian.org/MacBook](https://wiki.debian.org/MacBook)
+
+### 3.c. Icon theme
+The new Papirus theme used in Lubuntu is really nice.
+To install it go to https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
