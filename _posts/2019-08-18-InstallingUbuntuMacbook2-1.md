@@ -109,11 +109,13 @@ $ LIBGL_ALWAYS_SOFTWARE=1 glxgears -info
 ```
 
 The following softwares run successfully with this option:    
-| Softwares            |    
-|----------------------|    
-| Blender 2.79         |    
-| FreeCAD 0.18.3       |    
-| Ultimaker Cura 4.2.1 |    
+| Softwares            |
+|----------------------|
+| Blender 2.79         |
+| FreeCAD 0.18.3       |
+| Ultimaker Cura 4.2.1 |
+
+
 
 
 ### 3.b. Official Mactel support page
