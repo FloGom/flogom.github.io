@@ -7,7 +7,7 @@ title:            'F.a.r!U.P?.'
 tagline:          'Fun and really! Useless Projects?'
 description:      'Mainly open-source adventures to re-purpose old computer stuff, with some tinkering including 3D printing, software development.'
 url:              https://flogom.github.io
-baseurl:          '/index'
+baseurl:          '/flogom.github.io'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
