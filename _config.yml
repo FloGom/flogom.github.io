@@ -1,9 +1,9 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      red
+highlighter:      rouge
 
 # Setup
-title:            F.a.r!U.P?.
+title:            'F.a.r!U.P?.'
 tagline:          'Fun and really! Useless Projects'?
 description:      'Mainly open-source adventures to re-purpose old computer stuff, with some tinkering including 3D printing, software development.'
 url:              https://flogom.github.io
@@ -27,7 +27,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-sitemap
+#  - jekyll-sitemap
 
 # Sidebar link settings
 sidebar_home_link:  true
