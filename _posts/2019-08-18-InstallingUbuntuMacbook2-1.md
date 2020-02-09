@@ -84,6 +84,11 @@ as stated [here](https://forum.ubuntu-fr.org/viewtopic.php?id=1566641)
 Upgrading from an unsupported version of Ubuntu is not easy since 
 the servers are not available anymore.
 
+### 2.d. Other options
+German website with specific instruction to build a live image of Linux for this specific Mac era [mesom.de](https://mesom.de/efi32boot/index.html)
+
+Informations for grub boot options (`nomodeset`, `acpi=off`, `noapic`, `nolapic`...) :    
+[ask ubuntu Grub Option](https://askubuntu.com/questions/716957/what-do-the-nomodeset-quiet-and-splash-kernel-parameters-mean)
 
 ## 3. Tweaking the system for the Macbook
 The standard installation of Lubuntu performs well on a Macbook 2.1, but
