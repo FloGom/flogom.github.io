@@ -14,7 +14,7 @@ tags:
 ## The beast...
 Today the star of this post is a glorious iMac G3 DV Blueberry! This is the 400MHz CPU version, with a DVD player.
 
-![imac G3 photo](.\2020-03-21-img\imac_blueberry.jpg)    
+![imac G3 photo](/assets/2020-03-21-img/imac_blueberry.jpg)    
 *Image from [www.vectronicsappleworlds.com](http://www.vectronicsappleworld.com/archives/vintage/0003.php)*
 
 The system installed is Mac OS 10.2.8 a.k.a Jaguar.
@@ -34,7 +34,7 @@ In addition the interface used to connect the hard drive is IDE with an [IDC 40 
 Of course adaptators exist, for example IDE to Sata (like below) to play with a SSD for example,
 or IDE to Compact Flash.
 
-![adaptator photo](./2020-03-21-img/ide2sata.jpg)
+![adaptator photo](/assets/2020-03-21-img/ide2sata.jpg)
 
 Since there are 2 FireWire400 connectors available on this G3, it's possible to hook up an external hard drive. But on these machines there is no *Large Drive Support* (as mentionned in [Mactracker](http://mactracker.ca/index.html)) it means that only a maximum of 128 GB per drive is possible. Due to this limitation larger hard drives have to be partitionned in chunk of less than 128 GB.
 
