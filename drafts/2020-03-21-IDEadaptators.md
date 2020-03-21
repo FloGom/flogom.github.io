@@ -1,0 +1,1 @@
+[IDE to sata](https://www.connectivitycenter.com/sata-converter-for-ide-hard-drive-51019.html?msclkid=adaf98bbdd4519b53f94c6cd96426cb2), [Compact Flash to IDE](https://www.amazon.fr/dp/B000REZSJM?tag=duckduckgo-ffab-fr-21&linkCode=osi&th=1&psc=1).
