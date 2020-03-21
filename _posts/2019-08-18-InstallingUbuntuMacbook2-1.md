@@ -110,7 +110,7 @@ $ LIBGL_ALWAYS_SOFTWARE=1 glxgears -info
 
 The following softwares run successfully with this option:    
 | Softwares            | test |    
-|----------------------|------|    
++----------------------+------+    
 | Blender 2.79         | 1    |
 | FreeCAD 0.18.3       |  2   |
 | Ultimaker Cura 4.2.1 |  3   |
