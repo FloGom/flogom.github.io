@@ -14,7 +14,7 @@ tags:
 ## The beast...
 Today the star of this post is a glorious iMac G3 DV Blueberry! This is the 400MHz CPU version, with a DVD player.
 
-![imac G3 photo](/assets/2020-03-21-img/imac_blueberry.jpg)    
+![imac G3 photo](/assets/2020-03-21-img/imac_blueberry.jpg#center)    
 *Image from [www.vectronicsappleworlds.com](http://www.vectronicsappleworld.com/archives/vintage/0003.php)*
 
 The system installed is Mac OS 10.2.8 a.k.a Jaguar.
