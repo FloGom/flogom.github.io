@@ -11,20 +11,22 @@ tags:
   - upcycle
 ---
 
-## The keyboard and the goal
+## The keyboard and the goal :keyboard:
 The keyboard is an ADB *Apple Keyboard II*, with the french layout. 
 This keyboard was laying around, not used anymore (old world Mac), but sill in good shape.
 
-The goal is to use it on any every day modern computer.
+The goal is to use it on any everyday modern computer.
 It's an upcycling challenge!
 
 ## Binaries and installation
-To build an ADB <-> USB converter, the following item are needed :
+To build an ADB <-> USB converter, the following items are needed :
 - Teensy 2.0 (or whatever board with Atmega 32U4)
 - Mini-din 4 female connector
+- 1-10 kOhms pull-up resistor
 
 The female ADB connector is soldered to the microcontroller with respect to 
-the following pin out.`
+the following pin out.The pull-up resistor is soldered between the DATA and the 
+VCC pins.
 
 ```
 ADB female socket from the front :
@@ -36,8 +38,9 @@ ADB female socket from the front :
   `-___-'       4: GND
 ```
 
-The following binary has been built with [`tmk_keyboard`](https://github.com/tmk/tmk_keyboard)
- software and need to be upload with Teensy Loader.
+The firmware program to decode the key sended by the keyboard is built with 
+[`tmk_keyboard`](https://github.com/tmk/tmk_keyboard) software and need 
+to be upload with Teensy Loader.
 
 [adb_usb_rev1_akIIfr_2.hex](assets/2020-04-25-bin/adb_usb_rev1_akIIfr_2.hex)
 
@@ -47,6 +50,7 @@ method is accessible through the `meta` + `space` keys.
 
 [AppleKeyboardII_Layout.zip](assets/2020-04-25-bin/AppleKeyboardII_Layout.zip)
 
+And voilà, you can type with your old keyboard!
 
 ## Bonus
 
