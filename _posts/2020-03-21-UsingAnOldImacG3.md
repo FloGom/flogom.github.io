@@ -45,5 +45,18 @@ The two partitions appeared on the iMac's desktop. **So it's possible to divide 
 ## Quicktime playback of MP4
 As explained on the [Wikipedia page of Quicktime](https://en.wikipedia.org/wiki/QuickTime#QuickTime_and_MPEG-4), Quicktime 6 support only partially the MPEG-4 format using only Simple Profile. H264 encoding and decoding comes later with Quicktime 7 and it was shipped with Mac OS 10.4 Tiger.
 
-To test video-playback on such a low end computer (comparing to today Smartphones) the system must be first upgraded to Mac OS 10.4.
+To test video-playback on such a low end computer (comparing to today Smartphones) the system must be first upgraded to Mac OS 10.4.11
 
+After upgrade, the Quicktime version is 7.0.4 compatible with MP4 H264 video files. But the iMac is to slow to read correctly the video file.
+
+Even with  new version of Quicktime (7.6.4) and Perian 1.2.3 installed it was not possible.
+
+And VLC was not stable enough, nor fast enough to read properly the file.
+
+Even switching to MPEG-2 encoding for the video file to test, and adding MPEG-2 Quicktime component was not enough to read properly a video file.
+
+## Conclusion 
+An iMac G3 is a good home TV Theater for DVDs.   
+That's all he can do!
+
+Having a good DVD reader is therefore mandatory, but difficult with this aging machine and their slot-loading feature.
