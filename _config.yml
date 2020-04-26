@@ -1,6 +1,5 @@
 # Dependencies
-markdown:         redcarpet
-redcarpet:
+markdown:         GFM
 extensions:
   - no_intra_emphasis
   - fenced_code_blocks
