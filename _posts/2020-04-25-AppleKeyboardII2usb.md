@@ -42,13 +42,13 @@ The firmware program to decode the key sended by the keyboard is built with
 [`tmk_keyboard`](https://github.com/tmk/tmk_keyboard) software and need 
 to be upload with Teensy Loader.
 
-[adb_usb_rev1_akIIfr_2.hex](assets/2020-04-25-bin/adb_usb_rev1_akIIfr_2.hex)
+[adb_usb_rev1_akIIfr_2.hex](https://github.com/FloGom/Apple-Keyboard-II-tmk)
 
 Since the keyboard has a French Mac Layout, some adjustments have been made to 
 the Windows input method. Find below the installer. After a restart the input 
 method is accessible through the `meta` + `space` keys.
 
-[AppleKeyboardII_Layout.zip](assets/2020-04-25-bin/AppleKeyboardII_Layout.zip)
+[AppleKeyboardII_Layout.zip](https://github.com/FloGom/Apple-Keyboard-II-tmk)
 
 And voilà, you can type with your old keyboard!
 
@@ -103,7 +103,7 @@ make -f Makefile.rev1 KEYMAP=akIIfr
 ```
 
 The KEYMAP is downloadable here 
-[unimap_akIIfr.c](assets/2020-04-25-bin/unimap_akIIfr.c).
+[unimap_akIIfr.c](https://github.com/FloGom/Apple-Keyboard-II-tmk).
  Only one key has been changed, the key `PEQL` to `SLSH`, in order to have for 
  the `=` of the keypad the same key next to right shift.
  
